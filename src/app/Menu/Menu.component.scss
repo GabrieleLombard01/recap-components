@@ -1,0 +1,13 @@
+.menu-container,ul li{
+    list-style-type: none;
+    line-height: 30px;
+}
+.menu-container a{
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+}
+
+.menu-container a:hover{
+    text-decoration: underline;
+}
